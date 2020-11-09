@@ -1,4 +1,5 @@
 #include<stdio.h>
-void test(void){
+int test(void){
   printf("test_init()...\n");
+  return 0;
 }
